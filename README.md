@@ -8,7 +8,7 @@ I am currently seeking an internship opportunity in the field of software engine
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [kittiphatism@gmail.com](mailto:kittiphatism@gmail.com)
-* 🧠  I'm learning Next14.js, Vue.js
+* 🧠  I'm learning Next.js, Vue.js
 
 ### Skills
 
