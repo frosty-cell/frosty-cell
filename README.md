@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------------------------------------------------------
 
-I am currently seeking an internship opportunity in the field of software engineering for the months of April to May. I am eager to learn and gain firsthand experience in the software engineering industry. Thank you in advance.
+I am currently seeking an internship opportunity in the field of software engineering. I am eager to learn and gain firsthand experience in the software engineering industry. Thank you in advance.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [kittiphatism@gmail.com](mailto:kittiphatism@gmail.com)
