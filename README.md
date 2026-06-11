@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **frosty-cell/frosty-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================================
 
-Muhahaha
+muhahaha
 -------------------------------------------------------
 
 Hybrid
 
-* 🌍  I'm based in Earth
-* ✉️  You can contact me at :octocat:
-* 🧠  I'm learning {Secret Ingredients} :octocat:
+* 🌍  I'm based on Earth
+* ✉️  You can contact me at :octocat: 
+* 🧠  I'm learning {Secret Ingredients} 💎:octocat:💎
 
 ### Skills
 
