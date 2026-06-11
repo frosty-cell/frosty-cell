@@ -23,8 +23,8 @@ muhahaha
 Hybrid
 
 * 🌍  I'm based on Earth
-* ✉️  You can contact me at :octocat: 
-* 🧠  I'm learning {Secret Ingredients} 💎:octocat:💎
+* ✉️  You can contact me at :shipit: 
+* 🧠  I'm learning {Secret Ingredients} 💎 :octocat: 💎
 
 ### Skills
 
